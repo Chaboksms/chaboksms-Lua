@@ -18,7 +18,7 @@
 </div>
 
 ```
-luarocks install melipayamak
+luarocks install chaboksms
 ```
 
 <div dir='rtl'>
